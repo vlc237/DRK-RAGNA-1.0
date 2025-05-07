@@ -1,3 +1,9 @@
+Pour le déploiement des bots sur *GITHUB*
+
+.github/workflows/deploy.yml 
+
+
+
 
 name: Node.js CI
 
